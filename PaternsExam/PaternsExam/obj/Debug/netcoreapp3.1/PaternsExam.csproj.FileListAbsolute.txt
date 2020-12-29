@@ -1,0 +1,12 @@
+C:\Users\rukzw\source\repos\PaternsExam\PaternsExam\bin\Debug\netcoreapp3.1\PaternsExam.exe
+C:\Users\rukzw\source\repos\PaternsExam\PaternsExam\bin\Debug\netcoreapp3.1\PaternsExam.deps.json
+C:\Users\rukzw\source\repos\PaternsExam\PaternsExam\bin\Debug\netcoreapp3.1\PaternsExam.runtimeconfig.json
+C:\Users\rukzw\source\repos\PaternsExam\PaternsExam\bin\Debug\netcoreapp3.1\PaternsExam.runtimeconfig.dev.json
+C:\Users\rukzw\source\repos\PaternsExam\PaternsExam\bin\Debug\netcoreapp3.1\PaternsExam.dll
+C:\Users\rukzw\source\repos\PaternsExam\PaternsExam\bin\Debug\netcoreapp3.1\PaternsExam.pdb
+C:\Users\rukzw\source\repos\PaternsExam\PaternsExam\obj\Debug\netcoreapp3.1\PaternsExam.csprojAssemblyReference.cache
+C:\Users\rukzw\source\repos\PaternsExam\PaternsExam\obj\Debug\netcoreapp3.1\PaternsExam.AssemblyInfoInputs.cache
+C:\Users\rukzw\source\repos\PaternsExam\PaternsExam\obj\Debug\netcoreapp3.1\PaternsExam.AssemblyInfo.cs
+C:\Users\rukzw\source\repos\PaternsExam\PaternsExam\obj\Debug\netcoreapp3.1\PaternsExam.dll
+C:\Users\rukzw\source\repos\PaternsExam\PaternsExam\obj\Debug\netcoreapp3.1\PaternsExam.pdb
+C:\Users\rukzw\source\repos\PaternsExam\PaternsExam\obj\Debug\netcoreapp3.1\PaternsExam.genruntimeconfig.cache
